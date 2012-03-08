@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Exercise1", "Exercise1\Exercise1.vbproj", "{F30E5937-AAFD-4884-AFF3-C31A933DDE18}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Exercise2", "Exercise2\Exercise2.vbproj", "{9894E5F9-A157-4847-8177-9F92B685F729}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Exercise3", "Exercise3\Exercise3.vbproj", "{7541F8AC-913F-4725-B2BD-E3CD8646F9CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B756DD66-2B08-4666-9DAA-469ACE85CB98}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30E5937-AAFD-4884-AFF3-C31A933DDE18}.Debug|x86.ActiveCfg = Debug|x86
+		{F30E5937-AAFD-4884-AFF3-C31A933DDE18}.Debug|x86.Build.0 = Debug|x86
+		{F30E5937-AAFD-4884-AFF3-C31A933DDE18}.Release|x86.ActiveCfg = Release|x86
+		{F30E5937-AAFD-4884-AFF3-C31A933DDE18}.Release|x86.Build.0 = Release|x86
+		{9894E5F9-A157-4847-8177-9F92B685F729}.Debug|x86.ActiveCfg = Debug|x86
+		{9894E5F9-A157-4847-8177-9F92B685F729}.Debug|x86.Build.0 = Debug|x86
+		{9894E5F9-A157-4847-8177-9F92B685F729}.Release|x86.ActiveCfg = Release|x86
+		{9894E5F9-A157-4847-8177-9F92B685F729}.Release|x86.Build.0 = Release|x86
+		{7541F8AC-913F-4725-B2BD-E3CD8646F9CF}.Debug|x86.ActiveCfg = Debug|x86
+		{7541F8AC-913F-4725-B2BD-E3CD8646F9CF}.Debug|x86.Build.0 = Debug|x86
+		{7541F8AC-913F-4725-B2BD-E3CD8646F9CF}.Release|x86.ActiveCfg = Release|x86
+		{7541F8AC-913F-4725-B2BD-E3CD8646F9CF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
